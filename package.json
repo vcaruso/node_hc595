@@ -1,0 +1,32 @@
+{
+  "name": "node_hc595",
+  "version": "0.1.0",
+  "description": "A small library, using gpio-rpi, for raspberry pi to drive an 74HC595",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vcaruso/node_hc595"
+  },
+  "keywords": [
+    "74hc595",
+    "node"
+  ],
+  "author": "Vincenzo Caruso",
+  "license": [
+	{
+		"type": "MIT",
+		"url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+	}
+  ],
+  "bugs": {
+    "url": "https://github.com/vcaruso/node_hc595/issues"
+  },
+  "homepage": "https://github.com/vcaruso/node_hc595",
+  "devDependencies": {
+    "chai": "^2.1.1",
+    "mocha": "^2.2.1"
+  }
+}
